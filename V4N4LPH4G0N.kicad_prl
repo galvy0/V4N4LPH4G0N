@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 38,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -65,7 +65,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "V4LPH4.kicad_prl",
+    "filename": "V4N4LPH4G0N.kicad_prl",
     "version": 3
   },
   "project": {
